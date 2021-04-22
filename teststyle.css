@@ -1,0 +1,45 @@
+#login {
+    text-align: center;
+    font-size: 75;
+    z-index: 2;
+}
+
+
+#buttonText {
+    clear: both;
+    background-color: black;
+    border: 0 none;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    padding-left: 0px;
+    height: 23px;
+    line-height: 12px;
+    margin: 0 5px 10px 0;
+    padding-right: 0px;
+    white-space: nowrap;
+    width: 123px;
+    color: white;
+    opacity:1;
+    text-align: center;
+    margin-left: 3px;
+}
+#buttonText:hover {
+    background-color: rgba(165, 122, 255, 0.7);
+    border: 0 none;
+}
+
+body{
+    transition: background-image 2s ease;
+}
+
+.body1{
+    background-image: url(train.jpg);
+    color: white;
+    
+}
+.body2{
+    background : white;
+    color: black;
+}

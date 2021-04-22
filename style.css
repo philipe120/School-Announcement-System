@@ -1,0 +1,17 @@
+  body, html {
+  height: 100%;
+}
+.bg {
+  /* The image used */
+  
+
+  /* Half height */
+  width:auto;
+  height: auto;
+
+  /* Center and scale the image nicely */
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100% 100%;
+}
